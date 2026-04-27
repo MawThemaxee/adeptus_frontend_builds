@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-BE_tW6Ee.js";var t=e(),n=()=>(0,t.jsxs)(`div`,{children:[(0,t.jsx)(`h1`,{children:`404 - Page Not Found`}),(0,t.jsx)(`p`,{children:`The page you are looking for does not exist.`})]});export{n as default};
