@@ -1,0 +1,1 @@
+import"./chunk-CilyBKbf.js";import{_ as e,n as t}from"./index-CM0FKVWM.js";e();var n=t(),r=({children:e})=>(0,n.jsx)(n.Fragment,{children:e});export{r as default};
