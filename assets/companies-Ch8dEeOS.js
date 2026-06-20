@@ -1,0 +1,1 @@
+var e=`astartes_retributor_`,t={em:`etat-major`,1:`compagnie-1`,4:`compagnie-4`,10:`compagnie-10`},n=null;function r(){return n||=Object.fromEntries(Object.entries(t).map(([e,t])=>[t,e])),n}function i(n){return n.startsWith(e)?t[n.slice(20)]??null:null}function a(t){let n=r()[t];return n?`${e}${n}`:null}export{i as n,a as t};
