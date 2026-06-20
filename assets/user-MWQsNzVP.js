@@ -1,0 +1,1 @@
+import{n as e}from"./index-Dvz_7SID.js";var t=e(),n=()=>(0,t.jsxs)(`div`,{children:[(0,t.jsx)(`h1`,{children:`User Page`}),(0,t.jsx)(`p`,{children:`This page is dedicated to user-related information and actions.`})]});export{n as default};
