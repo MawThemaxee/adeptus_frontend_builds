@@ -1,1 +1,0 @@
-import{r as e}from"./chunk-CilyBKbf.js";import{v as t}from"./index-D5NFXBTX.js";var n=e(t(),1),r=`ADEPTUS`;function i(e){(0,n.useEffect)(()=>(document.title=`${r} | ${e}`,()=>{document.title=r}),[e])}export{i as t};
