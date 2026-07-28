@@ -1,0 +1,1 @@
+import{n as e}from"./index-DSpAR6Kq.js";var t=e(),n=({children:e})=>(0,t.jsx)(t.Fragment,{children:e});export{n as default};
