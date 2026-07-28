@@ -1,1 +1,0 @@
-import{n as e}from"./index-DSpAR6Kq.js";import{t}from"./usePageTitle-7dgrhfY5.js";var n=e(),r=()=>(t(`Espace Membre`),(0,n.jsxs)(`div`,{children:[(0,n.jsx)(`h1`,{children:`User Page`}),(0,n.jsx)(`p`,{children:`This page is dedicated to user-related information and actions.`})]}));export{r as default};
