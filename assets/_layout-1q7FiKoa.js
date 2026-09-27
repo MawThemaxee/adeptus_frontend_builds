@@ -1,1 +1,0 @@
-import{t as e}from"./jsx-runtime-BE_tW6Ee.js";var t=e(),n=({children:e})=>(0,t.jsx)(t.Fragment,{children:e});export{n as default};
